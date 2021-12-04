@@ -1,0 +1,14 @@
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\bin\Debug\netcoreapp3.1\Z-3.exe
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\bin\Debug\netcoreapp3.1\Z-3.deps.json
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\bin\Debug\netcoreapp3.1\Z-3.runtimeconfig.json
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\bin\Debug\netcoreapp3.1\Z-3.runtimeconfig.dev.json
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\bin\Debug\netcoreapp3.1\Z-3.dll
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\bin\Debug\netcoreapp3.1\Z-3.pdb
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.csproj.AssemblyReference.cache
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.AssemblyInfoInputs.cache
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.AssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.dll
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.pdb
+C:\Users\Grzegorz\source\repos\Z-1\Z-3\obj\Debug\netcoreapp3.1\Z-3.genruntimeconfig.cache

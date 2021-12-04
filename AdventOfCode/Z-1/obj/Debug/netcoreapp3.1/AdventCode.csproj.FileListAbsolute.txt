@@ -1,0 +1,14 @@
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\bin\Debug\netcoreapp3.1\AdventCode.exe
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\bin\Debug\netcoreapp3.1\AdventCode.deps.json
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\bin\Debug\netcoreapp3.1\AdventCode.runtimeconfig.json
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\bin\Debug\netcoreapp3.1\AdventCode.runtimeconfig.dev.json
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\bin\Debug\netcoreapp3.1\AdventCode.dll
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\bin\Debug\netcoreapp3.1\AdventCode.pdb
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.csproj.AssemblyReference.cache
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.AssemblyInfoInputs.cache
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.AssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.dll
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.pdb
+C:\Users\Grzegorz\source\repos\Z-1\AdventCode\obj\Debug\netcoreapp3.1\AdventCode.genruntimeconfig.cache
